@@ -1,0 +1,43 @@
+
+/* globel style */
+
+.App{
+  background-color: #F7F5F2;
+}
+
+/* menu style */
+
+#btnLogin{
+  border-radius: 50px;
+}
+
+/* body style*/
+
+#Body{
+  margin-top: 30vh;
+}
+.box{
+  height: 8rem;
+  width: 8rem;
+  border-radius: 1rem;
+  border: solid 1px;
+  border-color: #DFDFDE;
+  text-align: center;
+  margin: 1rem;
+}
+.txtBox{
+  margin-top: 1rem;
+}
+
+/* footer style */
+
+.Footer{
+  margin-top: 30vh;
+  background-color: #DFDFDE;
+  padding: 10vh;
+}
+
+/* edit canvas style */
+.EditCanvas{
+  margin: 5vh;
+}
